@@ -131,9 +131,7 @@ Large screen:
 
 Small screen:
 ![nav menu small screen](Images/nav-sm.png)
-
 - - -
-
 ## References
 
 OpenWeatherMap.org. (2012). Сurrent weather and forecast. Retrieved from [https://openweathermap.org/](https://openweathermap.org/)
